@@ -362,6 +362,9 @@ position: relative;
   color: #bd152b;
   font-weight: bold;
 }
+.menu .container .items .item img {
+    width: 250px;
+}
 /* menu */
 
 
