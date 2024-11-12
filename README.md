@@ -32,7 +32,8 @@ Otherwise, all links will open in the same tab.
 - Live Site URL: [here](https://olahasan.github.io/the-restaurant_HTML_CSS_JS/)
 
 
-![Screenshot](./images/template.png)
+![Screenshot](./images/template1.png)
+![Screenshot](./images/template2.png)
 
 ### What I Learned
 
