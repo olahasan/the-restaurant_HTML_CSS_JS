@@ -1,5 +1,5 @@
 let uuu = document.getElementById("up")
-// console.log(uuu);
+console.log(uuu);
 
 window.onscroll = function(){
     if(scrollY >= 300){
@@ -21,8 +21,8 @@ uuu.onclick = function(){
 // ICON
 let ICON = document.getElementById("ICON");
 let LIST = document.getElementById("LIST");
-// console.log(ICON);
-// console.log(LIST);
+console.log(ICON);
+console.log(LIST);
 
 ICON.onclick = function(){
     // LIST.style.display="block"
